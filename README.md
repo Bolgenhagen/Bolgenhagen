@@ -1,4 +1,4 @@
-<p align="center">print("Hello World! I'm Felipe Bolgenhagen Schöninger")</p>
+<h1 align="center">print("Hello World! I'm Felipe Bolgenhagen Schöninger")</h1>
 
 ###
 
