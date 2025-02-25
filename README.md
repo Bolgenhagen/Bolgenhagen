@@ -41,15 +41,18 @@
 </div>
 
 ###
+<details>
+  <summary><h3> My coding journey </h3></summary> 
 
-<div style="max-width: 600px; margin: auto;">
-    <h3 style="text-align: justify;">
-        Recently, I’ve developed a strong passion for programming, particularly using Python and R, to analyze complex biological data in the fields of transcriptomics and proteomics. My current research focuses on investigating the molecular responses of European seabass to acute and chronic stress, where I apply computational tools to process and interpret large-scale omics datasets. Through differential expression analysis and functional enrichment studies, I have gained valuable insights into how organisms respond to environmental challenges. This intersection of bioinformatics and biology has further fueled my enthusiasm for data-driven research.
-    </h3>
+    My journey into programming started during my Erasmus internship when I took a programming subject. At first, it felt overwhelming, and I nearly gave up, believing it was too difficult. I passed the subject, but programming didn’t seem like my path at the time. However, that changed when I joined a research institute and saw colleagues working with Python and R. Inspired by their work, I saw programming as a personal challenge I wanted to overcome.
+
+    Determined to improve, I took courses, practiced, and eventually succeeded—earning my first certificate in Data Analysis with Python. Alongside this, I was selected for a master’s thesis investigating stress responses in aquaculture fish using transcriptomics and proteomics. This gave me the perfect opportunity to apply my Python and R skills, creating visualizations like heatmaps, volcano plots, and boxplots. I also learned to work with remote servers using MobaXterm and gained experience in Bash scripting.
+
+    What once seemed impossible became one of my greatest strengths. Programming is now an essential part of my research, and I’m excited to continue growing in bioinformatics and computational biology.
 </div>
 
 ###
 
-<h2 align="left">Here bellow you can see all the projects I've been doing recently.</h2>
+<h2 align="center">Here bellow you can see all the projects I've been doing recently.</h2>
 
 ###
