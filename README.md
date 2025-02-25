@@ -1,5 +1,5 @@
-<h1 align="left">print("Hello World! I'm Felipe Bolgenhagen Schöninger")</h1>
-<h2 align="left">Hello World! I'm Felipe Bolgenhagen Schöninger</h2>
+<p style="font-size: 24px; margin-bottom: 0;"> print("Hello World! I'm Felipe Bolgenhagen Schöninger")</p>
+<p style="font-size: 16px; margin-bottom: 0;">Hello World! I'm Felipe Bolgenhagen Schöninger</p>
 
 ###
 
