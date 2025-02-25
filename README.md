@@ -49,7 +49,7 @@
     Determined to improve, I took courses, practiced, and eventually succeeded—earning my first certificate in Data Analysis with Python. Alongside this, I was selected for a master’s thesis investigating stress responses in aquaculture fish using transcriptomics and proteomics. This gave me the perfect opportunity to apply my Python and R skills, creating visualizations like heatmaps, volcano plots, and boxplots. I also learned to work with remote servers using MobaXterm and gained experience in Bash scripting.
 
     What once seemed impossible became one of my greatest strengths. Programming is now an essential part of my research, and I’m excited to continue growing in bioinformatics and computational biology.
-</div>
+</details>
 
 ###
 
