@@ -44,9 +44,7 @@
 
 ###
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg" alt="Snake animation" />
 
 ###
 
