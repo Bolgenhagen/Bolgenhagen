@@ -50,8 +50,8 @@
 
 ###
 
-<div style="max-width: 600px; margin: auto; text-align: justify;">
-    <h3>
+<div style="max-width: 600px; margin: auto;">
+    <h3 style="text-align: justify;">
         Recently, I’ve developed a strong passion for programming, particularly using Python and R, to analyze complex biological data in the fields of transcriptomics and proteomics. My current research focuses on investigating the molecular responses of European seabass to acute and chronic stress, where I apply computational tools to process and interpret large-scale omics datasets. Through differential expression analysis and functional enrichment studies, I have gained valuable insights into how organisms respond to environmental challenges. This intersection of bioinformatics and biology has further fueled my enthusiasm for data-driven research.
     </h3>
 </div>
