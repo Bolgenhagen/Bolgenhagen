@@ -50,6 +50,8 @@
 
 ###
 
-<h3 align="left">Recently, I’ve developed a strong passion for programming, particularly using Python and R, to analyze complex biological data in the fields of transcriptomics and proteomics. My current research focuses on investigating the molecular responses of European seabass to acute and chronic stress, where I apply computational tools to process and interpret large-scale omics datasets. Through differential expression analysis and functional enrichment studies, I have gained valuable insights into how organisms respond to environmental challenges. This intersection of bioinformatics and biology has further fueled my enthusiasm for data-driven research, and I am eager to apply these skills to new challenges in deep-sea biodiversity and conservation.</h3>
+<h3 align="left">Recently, I’ve developed a strong passion for programming, particularly using Python and R, to analyze complex biological data in the fields of transcriptomics and proteomics. My current research focuses on investigating the molecular responses of European seabass to acute and chronic stress, where I apply computational tools to process and interpret large-scale omics datasets. Through differential expression analysis and functional enrichment studies, I have gained valuable insights into how organisms respond to environmental challenges. This intersection of bioinformatics and biology has further fueled my enthusiasm for data-driven research. 
+
+Here bellow you can see all the projects I've been soing recently.</h3>
 
 ###
