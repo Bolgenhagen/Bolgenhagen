@@ -42,14 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="300" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi4llylo2kcbdrw0375ay.png"  />
-
-###
-
 <div style="max-width: 600px; margin: auto;">
     <h3 style="text-align: justify;">
         Recently, I’ve developed a strong passion for programming, particularly using Python and R, to analyze complex biological data in the fields of transcriptomics and proteomics. My current research focuses on investigating the molecular responses of European seabass to acute and chronic stress, where I apply computational tools to process and interpret large-scale omics datasets. Through differential expression analysis and functional enrichment studies, I have gained valuable insights into how organisms respond to environmental challenges. This intersection of bioinformatics and biology has further fueled my enthusiasm for data-driven research.
