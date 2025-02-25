@@ -1,4 +1,4 @@
-<p style="font-size: 24px; margin-bottom: 0;"> print("Hello World! I'm Felipe Bolgenhagen Schöninger")</p>
+<h2 style="margin-bottom: 0;"> print("Hello World! I'm Felipe Bolgenhagen Schöninger")</h2>
 <p style="font-size: 16px; margin-bottom: 0;">Hello World! I'm Felipe Bolgenhagen Schöninger</p>
 
 ###
