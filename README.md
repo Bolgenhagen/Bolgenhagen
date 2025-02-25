@@ -18,29 +18,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bolgenhagen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bolgenhagen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Bolgenhagen/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi4llylo2kcbdrw0375ay.png"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -58,17 +35,21 @@
 
 ###
 
-<!--
-**Bolgenhagen/Bolgenhagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bolgenhagen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bolgenhagen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="300" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi4llylo2kcbdrw0375ay.png"  />
+
+###
+
+<h3 align="left">Recently, I’ve developed a strong passion for programming, particularly using Python and R, to analyze complex biological data in the fields of transcriptomics and proteomics. My current research focuses on investigating the molecular responses of European seabass to acute and chronic stress, where I apply computational tools to process and interpret large-scale omics datasets. Through differential expression analysis and functional enrichment studies, I have gained valuable insights into how organisms respond to environmental challenges. This intersection of bioinformatics and biology has further fueled my enthusiasm for data-driven research, and I am eager to apply these skills to new challenges in deep-sea biodiversity and conservation.</h3>
+
+###
