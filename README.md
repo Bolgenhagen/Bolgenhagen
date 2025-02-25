@@ -15,6 +15,8 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
 </div>
 
+#
+
 ###
 
 <div align="center">
@@ -32,6 +34,8 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
 </div>
+
+#
 
 ###
 
