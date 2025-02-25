@@ -55,6 +55,6 @@
 
 ###
 
-<h2 align="center">Here bellow you can see all the projects I've been doing recently.</h2>
+<h2 align="center">Here bellow you can see all the projects I've been doing recently</h2>
 
 ###
