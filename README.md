@@ -1,8 +1,6 @@
-<h1 align="center">print("Hello World! I'm Felipe Bolgenhagen Schöninger")</h1>
+<h1 align="left">print("Hello World! I'm Felipe Bolgenhagen Schöninger")</h1>
 
-###
-
-<h2 align="center">Hello World! I'm Felipe Bolgenhagen Schöninger</h2>
+<h2 align="left">Hello World! I'm Felipe Bolgenhagen Schöninger</h2>
 
 ###
 
