@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hello World! I'm Felipe Bolgenhagen Schöninger</p>
+<h2 align="center">Hello World! I'm Felipe Bolgenhagen Schöninger</h2>
 
 ###
 
