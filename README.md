@@ -6,8 +6,6 @@
 
 <h3 align="center">Junior Data Analyst</h3>
 
-
-
 ###
 ## 🧰 Skills & Tools
 **SQL**  
@@ -24,7 +22,7 @@
 
 ---
 
-<p align="center">Currently working on **Python and SQL projects**</p>
+<p align="center"><strong>Currently working on Python and SQL projects</strong></p>
 
 
 #
@@ -38,7 +36,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg" alt="Snake animation" />
+</p>
+
 
 <details>
   <summary><h3> My coding journey </h3></summary> 
