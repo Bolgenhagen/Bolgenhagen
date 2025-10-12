@@ -11,7 +11,9 @@
 <div align="center">
 
 <details>
-  <summary><span style="font-size:24px; font-weight:bold;">My coding journey</span></summary> 
+  <summary>
+    <h3>My coding journey</h3>
+  </summary> 
 
   <div align="justify">
     <p>My journey into programming started during my Erasmus internship when I took a programming subject. At first, it felt overwhelming, and I nearly gave up, believing it was too difficult. I passed the subject, but programming didn’t seem like my path at the time. However, that changed when I joined a research institute and saw colleagues working with Python and R. Inspired by their work, I saw programming as a personal challenge I wanted to overcome.</p>
@@ -24,6 +26,7 @@
 </details>
 
 </div>
+
 
 <br>
 
