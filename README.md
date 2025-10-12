@@ -8,39 +8,62 @@
 
 
 ###
+## 🧰 Skills & Tools
 
-<div align="center">
-  <!-- SQL first -->
+<p align="center">
+  <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="20" />
-
+  
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="20" />
 
-  <!-- Numpy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="Numpy logo" />
-  <img width="20" />
-
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
-  <img width="20" />
-
   <!-- Excel -->
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Excel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
   <img width="20" />
 
   <!-- Power BI -->
-  <img src="https://cdn.simpleicons.org/microsoftpowerbi/F2C811" height="40" alt="Power BI logo" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerbi.svg" height="40" alt="Power BI logo" />
   <img width="20" />
 
   <!-- Tableau -->
-  <img src="https://cdn.simpleicons.org/tableau/FF6F00" height="40" alt="Tableau logo" />
-  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" height="40" alt="Tableau logo" />
+</p>
 
-  <!-- Arduino -->
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino logo" />
-</div>
+---
+
+### 💻 Current Expertise
+
+**SQL**  
+- Subqueries, Common Table Expressions (CTEs)  
+- Stored Procedures and Relational Databases  
+- Joins and data management  
+
+**Excel**  
+- Advanced functions: `IF`, `IFS`, `XLOOKUP`, `SUM`, `AVG`, `COUNT`  
+- Data cleaning: remove duplicates, handle missing values, imputations  
+
+**Python**  
+- Data management: `pandas`, `numpy`  
+- Interactive visualizations: `Plotly`, `Seaborn`, `Matplotlib`  
+- Data preparation: scaling, imputations, handling NAs, removing duplicates  
+- API usage and data integration  
+- Preprocessing for machine learning  
+
+**Power BI & Tableau**  
+- Data visualization and dashboard creation  
+- Interactive reporting for insights and decision-making  
+
+---
+
+### 🌱 Aspiring Skills
+- Machine Learning models and predictive analytics  
+- Advanced statistical modeling and feature engineering  
+
+---
+
+<p align="center">Currently working on **Python and SQL projects**</p>
 
 
 #
