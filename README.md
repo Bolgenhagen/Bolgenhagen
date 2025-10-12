@@ -9,7 +9,6 @@
  </div>
 <br>
 
-
 **Other tools:**  
 - ![Excel](https://seeklogo.com/images/M/microsoft-excel-logo-4F9F0D6D8A-seeklogo.com.png) **Excel**  
 - ![Power BI](https://seeklogo.com/images/P/power-bi-logo-1F9F0D6D8A-seeklogo.com.png) **Power BI**  
