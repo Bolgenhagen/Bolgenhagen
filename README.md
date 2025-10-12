@@ -3,7 +3,7 @@
 ###
 
 <h3>Hello World! I'm Felipe Bolgenhagen Schöninger</h3>
----
+
 <h3 align="center">Junior Data Analyst</h3>
 
 
