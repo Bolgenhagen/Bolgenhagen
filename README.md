@@ -61,10 +61,3 @@ Explore my projects that showcase my skills in data analysis, visualization, and
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bolgenhagen&theme=github)
 
----
-
-## 🐍 GitHub Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg)
-
----
