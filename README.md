@@ -3,12 +3,14 @@
 ###
 
 <h3>Hello World! I'm Felipe Bolgenhagen Schöninger</h3>
-###
-<h3 align="center">Junior Data Analyst</h3>
-###
-<p align="center"><strong>Currently working on Python and SQL projects</strong></p>
 
----
+###
+
+<h3 align="center">Junior Data Analyst</h3>
+
+###
+
+<p align="center"><strong>Currently working on Python and SQL projects</strong></p>
 
 ### 🌱 Aspiring Skills
 - Machine Learning models and predictive analytics  
