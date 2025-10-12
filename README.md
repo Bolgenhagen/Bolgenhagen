@@ -9,51 +9,11 @@
 
 ###
 ## 🧰 Skills & Tools
-
-<p align="center">
-  <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="20" />
-  
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="20" />
-
-  <!-- Excel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
-  <img width="20" />
-
-  <!-- Power BI -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerbi.svg" height="40" alt="Power BI logo" />
-  <img width="20" />
-
-  <!-- Tableau -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" height="40" alt="Tableau logo" />
-</p>
-
----
-
-### 💻 Current Expertise
-
 **SQL**  
-- Subqueries, Common Table Expressions (CTEs)  
-- Stored Procedures and Relational Databases  
-- Joins and data management  
-
+**Python (libraries: pandas, numpy, scikit-learn, matplotlib, plotly, seaborn, sqlite3)**  
 **Excel**  
-- Advanced functions: `IF`, `IFS`, `XLOOKUP`, `SUM`, `AVG`, `COUNT`  
-- Data cleaning: remove duplicates, handle missing values, imputations  
-
-**Python**  
-- Data management: `pandas`, `numpy`  
-- Interactive visualizations: `Plotly`, `Seaborn`, `Matplotlib`  
-- Data preparation: scaling, imputations, handling NAs, removing duplicates  
-- API usage and data integration  
-- Preprocessing for machine learning  
-
-**Power BI & Tableau**  
-- Data visualization and dashboard creation  
-- Interactive reporting for insights and decision-making  
+**Power BI**  
+**Tableau**
 
 ---
 
