@@ -2,12 +2,12 @@
 <h2>Hello world! I am Felipe Bolgenhagen Schöninger</strong></h2>
 <h3 align="center">JUNIOR DATA ANALYST</strong></h3>
 
-<br><br> 
+<br>
 
 - **Currently working with Python and SQL**  
 - **Have a look in all my projects here**  
 - **How to reach me felipeschoninger@gmail.com**  
-
+<br>
 <div align="center">
 
 <details>
@@ -24,7 +24,7 @@
 </details>
 
 </div>
-
+<br>
 
 ## 📈 Stats
 
@@ -38,13 +38,14 @@
     </td>
   </tr>
 </table>
+<br>
 
 ## 🔗 Connect with Me
 
 - [Portfolio Website]()
 - [LinkedIn](https://www.linkedin.com/in/felipebolgenhagen/)
 
-
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg" alt="Snake animation" />
