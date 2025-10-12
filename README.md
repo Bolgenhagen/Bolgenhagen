@@ -6,7 +6,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> 
   <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="pandas logo" /> 
   <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /> 
-  <img width="20" /> <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="linux logo" /> 
+  <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="linux logo" /> 
   
  </div>
 <br>
