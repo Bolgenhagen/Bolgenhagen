@@ -5,7 +5,7 @@
 <br>
 
 - 🌱 **Currently working with Python and SQL**  
-- 👨‍💻 **Have a look in all my projects here**  
+- 👨‍💻 Have a look in all my projects **[here](https://github.com/Bolgenhagen?tab=repositories)**
 - 📫 **Feel free to reach me at felipeschoninger@gmail.com**  
 <br>
 <div align="center">
