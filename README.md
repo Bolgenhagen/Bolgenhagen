@@ -41,12 +41,6 @@
 
 
 
-## 🧪 Projects
-
-### [Data Analysis Projects](https://github.com/Bolgenhagen/medical_data_visualizer_freecodecamp_project)
-
-Explore my projects that showcase my skills in data analysis, visualization, and machine learning.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg" alt="Snake animation" />
 </p>
