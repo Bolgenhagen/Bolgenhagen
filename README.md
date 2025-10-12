@@ -6,10 +6,9 @@
 
 <h3 align="center">Junior Data Analyst</h3>
 
-###
 ## 🧰 Skills & Tools
 **SQL**  
-**Python (libraries: pandas, numpy, scikit-learn, matplotlib, plotly, seaborn, sqlite3)**  
+**Python (pandas, numpy, scikit-learn, matplotlib, plotly, seaborn, sqlite3)**  
 **Excel**  
 **Power BI**  
 **Tableau**
