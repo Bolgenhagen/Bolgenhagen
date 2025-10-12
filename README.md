@@ -41,18 +41,13 @@
 
 ## 🔗 Connect with Me
 
-- [Portfolio Website](https://abusaid.netlify.app)
-- [LinkedIn](https://www.linkedin.com/in/abu-said-bd)
-- [Twitter](https://twitter.com/said7388)
-- [Facebook](https://www.facebook.com/abusaid.riyaz)
+- [Portfolio Website]()
+- [LinkedIn](https://www.linkedin.com/in/felipebolgenhagen/)
+
 
 ---
 
-## 🎯 Achievements
 
-![Quickdraw](https://github-profile-trophy.vercel.app/?username=Bolgenhagen&theme=radical&column=3&margin-w=15&margin-h=15)
-
----
 
 ## 🧪 Projects
 
@@ -73,5 +68,3 @@ Explore my projects that showcase my skills in data analysis, visualization, and
 ![GitHub Snake](https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg)
 
 ---
-
-Feel free to customize this template further to better fit your personal style and the specific projects you've worked on. If you need assistance with any other sections or have additional requests, let me know!
