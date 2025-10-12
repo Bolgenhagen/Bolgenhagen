@@ -4,12 +4,11 @@
 
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> 
-  <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" /> 
-  <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /> 
-  <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="spss logo" /> 
+  <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="pandas logo" /> 
   <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /> 
-  <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo" /> 
-  <img width="20" /> <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo" /> </div>
+  <img width="20" /> <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="linux logo" /> 
+  
+ </div>
 <br>
 
 - 🌱 **Currently working with Python and SQL**  
