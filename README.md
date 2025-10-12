@@ -4,7 +4,7 @@
 
 
 
-- **Currently working on Python and SQL projects**  
+- **Currently working with Python and SQL**  
 - **Have a look in all my projects here**  
 - **How to reach me felipeschoninger@gmail.com**  
 
