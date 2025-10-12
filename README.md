@@ -4,12 +4,6 @@
 
 <h3 align="center">Currently working on <strong>Python and SQL projects</strong></h3>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg" alt="Snake animation" />
-</p>
-<div align="center">
-
 <details>
   <summary><h3>My coding journey</h3></summary> 
 
@@ -35,21 +29,25 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
-![Abu Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bolgenhagen&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Bolgenhagen&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bolgenhagen&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolgenhagen&layout=compact&langs_count=8&hide_border=true&theme=radical)
 
----
 
 ## 🔗 Connect with Me
 
 - [Portfolio Website]()
 - [LinkedIn](https://www.linkedin.com/in/felipebolgenhagen/)
-
-
----
 
 
 
@@ -59,9 +57,8 @@
 
 Explore my projects that showcase my skills in data analysis, visualization, and machine learning.
 
----
-
-## 📊 GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bolgenhagen&theme=github)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bolgenhagen/Bolgenhagen/output/snake.svg" alt="Snake animation" />
+</p>
+<div align="center">
 
