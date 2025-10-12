@@ -2,8 +2,9 @@
 <h2>Hello world! I am Felipe Bolgenhagen Schöninger</strong></h2>
 <h3 align="center">JUNIOR DATA ANALYST</strong></h3>
 
-<h3 align="center">Currently working on <strong>Python and SQL projects</strong></h3>
 
+
+- **Currently working on Python and SQL projects**  
 - **Have a look in all my projects here**  
 - **How to reach me felipeschoninger@gmail.com**  
 
