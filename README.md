@@ -7,9 +7,14 @@
   <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="pandas logo" /> 
   <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /> 
   <img width="20" /> <img src="assets/icons/excel.png" height="40" alt="Excel logo" /> 
-  
-
  </div>
+<br>
+
+**Other tools:**  
+- ![Excel](assets/icons/excel.png) **Excel**  
+- ![Power BI](assets/icons/powerbi.svg) **Power BI**  
+- ![Tableau](assets/icons/tableau.png) **Tableau**
+ 
 <br>
 
 - 🌱 **Currently working with Python and SQL**  
