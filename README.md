@@ -10,10 +10,14 @@
  </div>
 <br>
 
-**Other tools:**  
-- ![Excel](assets/icons/excel.png) **Excel**  
-- ![Power BI](assets/icons/powerbi.svg) **Power BI**  
-- ![Tableau](assets/icons/tableau.png) **Tableau**
+<div align="center">
+  <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/python.svg" height="40" alt="Python logo" />
+  <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/sql.svg" height="40" alt="SQL logo" />
+  <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/microsoftexcel.svg" height="40" alt="Excel logo" />
+  <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/microsoftpowerbi.svg" height="40" alt="Power BI logo" />
+  <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/tableau.svg" height="40" alt="Tableau logo" />
+</div>
+
  
 <br>
 
