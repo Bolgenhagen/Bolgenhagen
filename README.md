@@ -4,9 +4,9 @@
 
 <br>
 
-- **Currently working with Python and SQL**  
-- **Have a look in all my projects here**  
-- **How to reach me felipeschoninger@gmail.com**  
+- 🌱 **Currently working with Python and SQL**  
+- 👨‍💻 **Have a look in all my projects here**  
+- 📫 **Feel free to reach me at felipeschoninger@gmail.com**  
 <br>
 <div align="center">
 
