@@ -4,8 +4,11 @@
 
 <h3 align="center">Currently working on <strong>Python and SQL projects</strong></h3>
 
+- **Have a look in all my projects here**  
+- **How to reach me felipeschoninger@gmail.com**  
+
 <details>
-  <summary><h3>My coding journey</h3></summary> 
+  <summary><h3 align = "center">My coding journey</h3></summary> 
 
   <div align="justify">
     <p>My journey into programming started during my Erasmus internship when I took a programming subject. At first, it felt overwhelming, and I nearly gave up, believing it was too difficult. I passed the subject, but programming didn’t seem like my path at the time. However, that changed when I joined a research institute and saw colleagues working with Python and R. Inspired by their work, I saw programming as a personal challenge I wanted to overcome.</p>
@@ -16,18 +19,6 @@
   </div>
 
 </details>
-
-</div>
-
-## 🛠️ Skills
-
-- **SQL**  
-- **Python (pandas, numpy, scikit-learn, matplotlib, plotly, seaborn, sqlite3)**  
-- **Excel**  
-- **Power BI**  
-- **Tableau**
-
----
 
 ## 📈 Stats
 
@@ -41,8 +32,6 @@
     </td>
   </tr>
 </table>
-
-
 
 ## 🔗 Connect with Me
 
