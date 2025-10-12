@@ -6,14 +6,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> 
   <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="pandas logo" /> 
   <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /> 
- </div>
-<br>
-
-**Other tools:**  
-- ![Excel](https://seeklogo.com/images/M/microsoft-excel-logo-4F9F0D6D8A-seeklogo.com.png) **Excel**  
-- ![Power BI](https://seeklogo.com/images/P/power-bi-logo-1F9F0D6D8A-seeklogo.com.png) **Power BI**  
-- ![Tableau](https://seeklogo.com/images/T/tableau-logo-8F9F0D6D8A-seeklogo.com.png) **Tableau**
- 
+ </div> 
 <br>
 
 - 🌱 **Currently working with Python and SQL**  
