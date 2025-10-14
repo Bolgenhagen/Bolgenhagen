@@ -51,7 +51,7 @@
 
 ## 🔗 Connect with Me
 
-- [Portfolio Website]()
+- [Portfolio Website](https://felipeschoninger.carrd.co/)
 - [LinkedIn](https://www.linkedin.com/in/felipebolgenhagen/)
 
 <br>
