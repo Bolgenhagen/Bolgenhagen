@@ -10,7 +10,7 @@
 <br>
 
 - 🌱 **Currently working with Python and SQL**  
-- 👨‍💻 Have a look in all my projects **[here](https://github.com/Bolgenhagen?tab=repositories)**
+- 👨‍💻 Have a look in all my projects **[here](https://www.datascienceportfol.io/felipeschoninger)**
 - 📫 **Feel free to reach me at felipeschoninger@gmail.com**  
 <br>
 <div align="center">
@@ -51,7 +51,7 @@
 
 ## 🔗 Connect with Me
 
-- [Portfolio Website](https://felipeschoninger.carrd.co/)
+- [Portfolio Website](https://www.datascienceportfol.io/felipeschoninger)
 - [LinkedIn](https://www.linkedin.com/in/felipebolgenhagen/)
 
 <br>
